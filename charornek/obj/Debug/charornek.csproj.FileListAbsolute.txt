@@ -1,0 +1,13 @@
+C:\Users\legen\source\repos\charornek\charornek\bin\Debug\charornek.exe.config
+C:\Users\legen\source\repos\charornek\charornek\bin\Debug\charornek.exe
+C:\Users\legen\source\repos\charornek\charornek\bin\Debug\charornek.pdb
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.Form1.resources
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.Properties.Resources.resources
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.exe
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.pdb
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.Form2.resources
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.Form3.resources
+C:\Users\legen\source\repos\charornek\charornek\obj\Debug\charornek.Form4.resources
